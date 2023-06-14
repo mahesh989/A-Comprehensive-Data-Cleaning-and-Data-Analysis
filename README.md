@@ -4,7 +4,7 @@
 This repository contains an analysis of grocery product prices for Australian states. The analysis aims to provide insights into pricing patterns, trends, and variations within the grocery product market in Australia.
 
 **Dataset**
-The analysis is based on the "Grocery Product Prices for Australian States" dataset, available on Kaggle (link). The dataset includes information on product prices, categories, subcategories, brands, and geographical locations.
+The analysis is based on the "Grocery Product Prices for Australian States" dataset, available on Kaggle ( https://www.kaggle.com/datasets/thedevastator/grocery-product-prices-for-australian-states). The dataset includes information on product prices, categories, subcategories, brands, and geographical locations.
 
 **Analysis Highlights**
 The analysis covers several key aspects:
